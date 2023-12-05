@@ -1,2 +1,2 @@
 # Amazon-Clone
-website like amazon.
+website same as amazon.
